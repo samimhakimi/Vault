@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en" style="--vh:6.14px;">
+
+<head>
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vault</title>
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&amp;display=swap" rel="stylesheet">
+    <style>
+        
+    </style>
+
+
+     
+</head>
+
+<body>
+    <div class="main_container">
+        <div class="header">
+            <div class="header-container">
+             
+                <img src="assets/header.png" id="headerPic">
+                
+                <div class="progressive-jackpot-ticker" data-jackpot-id="15"></div>
+            </div>
+        </div>
+        <div>
+         
+            <h1 style="align-content:center;">
+           
+            </h1>
+        </div>
+        <div class="lds-spinner">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+        <div id="vault-container">
+            <div id="summaryDiv" class="summary" style="display:none;">
+                <div class="items">
+                    <div id="jackpot-inner-text" class="jackpot-inner-text progressive-jackpot-ticker" data-jackpot-id="15">7,360,238.34</div>
+                    <img id="congrats" src="./images/congrat2.png">
+                    <button id="cta-1" onclick="window.location.href='https://api.wildzaffiliates.com/tracking.php?tracking_code&aid=101648&mid=37&sid=11360&pid=1';"><img id="cat-g" src="images/signUpButton.png"></button>
+                </div>
+            </div>
+            <div id="summary2Div" class="summary" style="display:none;">
+                <div class="items">
+                    <div id="jackpot-inner-text2" class="jackpot-inner-text progressive-jackpot-ticker" data-jackpot-id="15">7,360,238.34</div>
+                 
+                    <button id="cta-2" class="cta-btn" onclick="window.location.href = 'https://api.wildzaffiliates.com/tracking.php?tracking_code&aid=101648&mid=37&sid=11360&pid=1';"><img src="images/signUpButton.png"></button>
+                </div>
+            </div>
+        </div>
+        <script src="./isLookup.js">
+
+        </script>
+        <script>
+            (window.jQuery) || document.write('<script src="' + (location.protocol == "https:" ? "https:" : "http:") +
+                '//ajax.aspnetcdn.com/ajax/jquery/jquery-1.11.3.min.js"><\/script>');
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-1.11.3.min.js"></script>
+        <script src="scripts/game.js"></script>
+        <script type="text/javascript">
+        //  window.startGame('assets.json', 'settingsSecretCodeJackpotMixed.json');
+        </script>
+        <script>
+            ($(document).progressiveJackpotTicker) || document.write('<script src="' + (location.protocol == "https:" ?
+                "https:" : "http:") + '//cdn.zxcdn.com/webcdn/js/ProgressiveJackpotTicker.min.js"><\/script>');
+
+            $(document).ready(function() {
+                $(document).progressiveJackpotTicker({
+                    cultureName: 'FR_DOL',
+                    
+                });
+            });
+        </script> 
+
+ 
+
+        <script src="./Translate.js"></script>
+
+        
+    
+</body>
+
+</html>

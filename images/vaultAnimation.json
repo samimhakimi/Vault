@@ -1,0 +1,256 @@
+{"frames": {
+
+"VaultDoor_0":
+{
+	"frame": {"x":1316,"y":1305,"w":300,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":39,"w":300,"h":282},
+	"sourceSize": {"w":492,"h":360}
+},
+"VaultDoor_1":
+{
+	"frame": {"x":1618,"y":1547,"w":300,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":39,"w":300,"h":282},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_2":
+{
+	"frame": {"x":659,"y":1589,"w":300,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":39,"w":300,"h":282},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_3":
+{
+	"frame": {"x":1646,"y":1263,"w":301,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":39,"w":301,"h":282},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_4":
+{
+	"frame": {"x":961,"y":1589,"w":300,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":39,"w":300,"h":282},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_5":
+{
+	"frame": {"x":1263,"y":1589,"w":299,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":39,"w":299,"h":282},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_6":
+{
+	"frame": {"x":1646,"y":979,"w":321,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":39,"w":321,"h":282},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_7":
+{
+	"frame": {"x":988,"y":1305,"w":326,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":39,"w":326,"h":282},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_8":
+{
+	"frame": {"x":659,"y":1305,"w":327,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":39,"w":327,"h":282},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_9":
+{
+	"frame": {"x":330,"y":1305,"w":327,"h":309},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":25,"w":327,"h":309},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_10":
+{
+	"frame": {"x":1,"y":1305,"w":327,"h":321},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":19,"w":327,"h":321},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_11":
+{
+	"frame": {"x":1017,"y":653,"w":327,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":327,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_12":
+{
+	"frame": {"x":1346,"y":653,"w":327,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":327,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_13":
+{
+	"frame": {"x":1,"y":979,"w":327,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":327,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_14":
+{
+	"frame": {"x":330,"y":979,"w":327,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":327,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_15":
+{
+	"frame": {"x":659,"y":979,"w":327,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":327,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_16":
+{
+	"frame": {"x":988,"y":979,"w":327,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":327,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_17":
+{
+	"frame": {"x":1317,"y":979,"w":327,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":327,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_18":
+{
+	"frame": {"x":687,"y":653,"w":328,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":328,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_19":
+{
+	"frame": {"x":352,"y":653,"w":333,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":333,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_20":
+{
+	"frame": {"x":1,"y":653,"w":349,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":349,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_21":
+{
+	"frame": {"x":1600,"y":327,"w":367,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":367,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_22":
+{
+	"frame": {"x":1216,"y":327,"w":382,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":382,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_23":
+{
+	"frame": {"x":820,"y":327,"w":394,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":394,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_24":
+{
+	"frame": {"x":414,"y":327,"w":404,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":404,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_25":
+{
+	"frame": {"x":1,"y":327,"w":411,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":411,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_26":
+{
+	"frame": {"x":1269,"y":1,"w":416,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":416,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_27":
+{
+	"frame": {"x":848,"y":1,"w":419,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":419,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_28":
+{
+	"frame": {"x":425,"y":1,"w":421,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":421,"h":324},
+	"sourceSize": {"w":492,"h":360}
+},
+"vaultdoor_29":
+{
+	"frame": {"x":1,"y":1,"w":422,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":18,"w":422,"h":324},
+	"sourceSize": {"w":492,"h":360}
+}},
+"animations": {
+	"VaultDoor": ["VaultDoor_0","VaultDoor_1"],
+	"vaultdoor": ["vaultdoor_2","vaultdoor_3","vaultdoor_4","vaultdoor_5","vaultdoor_6","vaultdoor_7","vaultdoor_8","vaultdoor_9","vaultdoor_10","vaultdoor_11","vaultdoor_12","vaultdoor_13","vaultdoor_14","vaultdoor_15","vaultdoor_16","vaultdoor_17","vaultdoor_18","vaultdoor_19","vaultdoor_20","vaultdoor_21","vaultdoor_22","vaultdoor_23","vaultdoor_24","vaultdoor_25","vaultdoor_26","vaultdoor_27","vaultdoor_28","vaultdoor_29"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "vaultAnimation.png",
+	"format": "RGBA8888",
+	"size": {"w":1968,"h":1872},
+	"scale": "0.6",
+	"smartupdate": "$TexturePacker:SmartUpdate:67b39cfdbfb4b95a328756f5915472f8:2cfd22d3372ca298f54f80638778176b:39eada805a6142387b7805f6b1887b73$"
+}
+}

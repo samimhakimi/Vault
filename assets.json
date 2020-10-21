@@ -1,0 +1,29 @@
+{
+  "sprites": {
+
+    "vaultDoor": "images/vault1Door.png",
+    "vaultHandle": "images/vault1Handle.png",
+    "vaultAnimation": "images/vaultAnimation.json",
+    "vaultOpenDoor": "images/vault1DoorStatic.png",
+    "vaultGlow": "images/vaultDoorGlow.png",
+
+    "vaultWall": "images/vault1Wall.png",
+    "vaultInside": "images/vaultInside.jpg",
+
+    "vault2Wall": "images/vault2Wall.png",
+    "vault2Inside": "images/vault2Inside.jpg",
+
+    "keypad": "images/keypad.png",
+    "secretButton": "images/secretButton.png",
+    "signUpButton": "images/signUpButton.png",
+
+    "introImageGerman": "images/intro1_German.png",
+
+    "introImage": "images/intro1.png",
+    "tryAgain1Image": "images/tryAgain1.png",
+    "tryAgain2Image": "images/tryAgain2.png",
+    "summaryImage": "images/congrats.png",
+    "summary2Image": "images/congrats2.png",
+    "secretImage": "images/secret.png"
+  }
+}
